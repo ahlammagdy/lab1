@@ -1,0 +1,15 @@
+                                                     account
+_______________________________________________________________
+ - id : int
+ - balance : double
+ - AIR : double 
+_______________________________________________________________
+ +account()
+ +acount(x:int , y:int)
+ +setData(ID : int , BALANCE : double) : void
+ +setAIR(air : double) : void
+ +GetData() : void
+ +GetDate() : string
+ +GetdMonIeRate() : double
+ +withdraw(w: double ) : void
+ +Deposit(A : double) : void 
